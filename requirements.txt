@@ -1,0 +1,4 @@
+stremlit
+transformers
+wikipedia
+scikit-learn
